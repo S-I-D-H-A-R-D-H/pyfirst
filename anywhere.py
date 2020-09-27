@@ -10,4 +10,5 @@ for i in range(2,half):
         break
 else:
     print("{} is a prime number".format(num))
+print("hope you got the right output")
 print("thank you!")
